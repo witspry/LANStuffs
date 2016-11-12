@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Skin>
+  <Description>
+    <Name>Red</Name>
+    <AuthorName>Satya Prakash Jugran</AuthorName>
+  </Description>
+  <Properties>
+    <Form>
+      <BackColor>Red</BackColor>
+      <BackImage>Image1</BackImage>
+      <Font>
+        <Name>Arial</Name>
+        <Size>10</Size>
+        <Color>Brown</Color>
+      </Font>
+    </Form>
+    <Button>
+      <BackColor>LightGrey</BackColor>
+      <Font>
+        <Name>Microsoft Sans Serif</Name>
+        <Size>8.25</Size>
+        <Color>Brown</Color>
+      </Font>
+    </Button>
+    <MenuStrip>
+      <BackColor>Coral</BackColor>
+      <ForeColor>Black</ForeColor>
+    </MenuStrip>
+    <Groupbox>
+      <BackColor>Red</BackColor>
+      <ForeColor>White</ForeColor>
+    </Groupbox>
+    <Listbox>
+      <BackColor>White</BackColor>
+      <ForeColor>Red</ForeColor>
+    </Listbox>
+    <StatusStrip>
+      <BackColor>Coral</BackColor>
+      <ForeColor>Red</ForeColor>
+    </StatusStrip>
+  </Properties>
+</Skin>

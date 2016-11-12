@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Connections>
+  <Connection>
+    <Name>Ashish Jugran 1</Name>
+    <Address>127.0.0.1:1234</Address>
+  </Connection>
+  <Connection>
+    <Name>Ashish Jugran 2</Name>
+    <Address>127.0.0.1:2222</Address>
+  </Connection>
+</Connections>
